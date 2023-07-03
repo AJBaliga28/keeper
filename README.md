@@ -1,2 +1,4 @@
 # keeper
-A Simple ToDo App created using ReactJS
+A Simple Note Taking App created using ReactJS
+
+Deployed at: https://ajb-notetaking.netlify.app/
